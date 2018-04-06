@@ -1,0 +1,16 @@
+.jumbotron {
+	
+	opacity: 0.7;
+	margin: auto;
+	text-align: center
+
+}
+
+
+body	{background:url(https://preview2.netcarshow.com/Tesla-Roadster-2020-ig.jpg); 
+background-size :cover;
+background-position: top;
+background-repeat: no-repeat;
+font-family:lato;
+margin: auto;
+}
